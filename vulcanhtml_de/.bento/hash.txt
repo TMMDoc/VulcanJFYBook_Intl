@@ -9,9 +9,10 @@ Pages=64
 UIXlate=False, DebugUIXlate=False, Language=EN
 
 contents.txt • 255901.025916
-impressum.adoc • Impressum
+Impressum.JFY.adoc • Impressum
+impressum.TRUMPF.adoc • Impressum
 Index.adoc • Willkommen bei {APPNAME}
-manifest.txt • 254923.054935
+manifest.txt • 251424.021401
 configure\contents.txt • 255909.065930
 configure\index.adoc • Maschinenkonfiguration
 configure\LaserDB.adoc • Laserdatenbestand
